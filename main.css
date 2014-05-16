@@ -1,0 +1,22 @@
+.btn {
+	background-color: forestgreen;
+}
+
+.btn-primary {
+	background-color: royalblue;
+}
+
+.jumbotron {
+	padding-top: 80px;
+}
+
+.btn-default {
+	background-color: ivory;
+}
+
+hr {
+	border: 1px solid lightgrey;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
